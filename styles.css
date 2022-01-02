@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(233, 214, 198);
+    font-family: sans-serif;
+}
+
+.main-menu {
+    text-align: center;
+}
+
+.menu-list {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    font-size: large;
+    background-color: white;
+    color: red;
+    padding: 20px;
+    border: none;
+    display: inline-block;
+    margin: 2px 4px;
+}
+
+
